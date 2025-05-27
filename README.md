@@ -34,7 +34,7 @@ Welcome to the **Super Hero App** — a visually engaging web application create
 
 ## 🔗 Live Demo
 
-> [Insert live link here] – if hosted on GitHub Pages or another platform.
+>https://motjiang.github.io/Superhero-App/
 
 ## 📚 Learning Outcome
 
